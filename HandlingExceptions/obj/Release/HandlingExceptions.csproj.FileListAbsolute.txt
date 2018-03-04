@@ -1,0 +1,7 @@
+C:\Users\PrinceBOSS\Google Drive\Visual Studio\C#\HandlingExceptions\HandlingExceptions\bin\Release\HandlingExceptions.exe.config
+C:\Users\PrinceBOSS\Google Drive\Visual Studio\C#\HandlingExceptions\HandlingExceptions\bin\Release\HandlingExceptions.exe
+C:\Users\PrinceBOSS\Google Drive\Visual Studio\C#\HandlingExceptions\HandlingExceptions\bin\Release\HandlingExceptions.pdb
+C:\Users\PrinceBOSS\Google Drive\Visual Studio\C#\HandlingExceptions\HandlingExceptions\obj\Release\HandlingExceptions.csprojResolveAssemblyReference.cache
+C:\Users\PrinceBOSS\Google Drive\Visual Studio\C#\HandlingExceptions\HandlingExceptions\obj\Release\HandlingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\PrinceBOSS\Google Drive\Visual Studio\C#\HandlingExceptions\HandlingExceptions\obj\Release\HandlingExceptions.exe
+C:\Users\PrinceBOSS\Google Drive\Visual Studio\C#\HandlingExceptions\HandlingExceptions\obj\Release\HandlingExceptions.pdb

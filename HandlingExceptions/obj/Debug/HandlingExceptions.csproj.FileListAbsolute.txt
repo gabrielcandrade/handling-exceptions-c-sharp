@@ -1,0 +1,6 @@
+C:\Users\PrinceBOSS\Google Drive\Visual Studio\C#\HandlingExceptions\HandlingExceptions\bin\Debug\HandlingExceptions.exe.config
+C:\Users\PrinceBOSS\Google Drive\Visual Studio\C#\HandlingExceptions\HandlingExceptions\bin\Debug\HandlingExceptions.exe
+C:\Users\PrinceBOSS\Google Drive\Visual Studio\C#\HandlingExceptions\HandlingExceptions\bin\Debug\HandlingExceptions.pdb
+C:\Users\PrinceBOSS\Google Drive\Visual Studio\C#\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\PrinceBOSS\Google Drive\Visual Studio\C#\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.exe
+C:\Users\PrinceBOSS\Google Drive\Visual Studio\C#\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.pdb
